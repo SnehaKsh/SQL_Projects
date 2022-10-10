@@ -1,0 +1,12 @@
+1] What is the difference between the parent and child tables, and why?
+-> The parent table contains the primary key. On the other hand, child table contains the foreign key in reference to primary key in the parent table.
+
+2] What are the four components of a database management system?
+-> The four components of DBMS are: hardware, software, data, users.
+
+3] What is the distinction between SQL and SQL plus?
+-> SQL is a language whereas SQL plus is designed by Oracle, which is a command line tool.
+
+4] What is the definition of normalization?
+-> Normalization is the process of removing the data redundancy and increasing the data integrity in the data table.
+
